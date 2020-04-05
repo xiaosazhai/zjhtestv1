@@ -1,2 +1,2 @@
-FROM xiaosazhai/zjhavtest1:zjhavtest1
+FROM xiaosazhai/zjhavtest1:latest
 MAINTAINER kk "80631004@qq.com"
